@@ -1,3 +1,2 @@
-# Slusser
 
 Slusser.Info
